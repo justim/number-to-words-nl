@@ -1,4 +1,4 @@
-# Number to words in Dutch
+# Number to words in Dutch [![Build Status](https://api.travis-ci.org/justim/number-to-words-nl.svg)](https://travis-ci.org/justim/number-to-words-nl)
 
 > Convert numbers to words in Dutch
 
